@@ -9,7 +9,7 @@ if getgenv().RunScript == true then return end
 getgenv().RunScript = true
 
 local queueScript = [[
-loadstring(game:HttpGet('https://raw.githubusercontent.com/nhatminh645/Shutthefuckuphellnah/refs/heads/main/linlin'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/hdfhsth/UI/refs/heads/main/fvws?token=GHSAT0AAAAAADHFNJKNEU2QOZOUJ43QWHRG2E6S22A'))()
 ]]
 
 queue_on_teleport(queueScript)
